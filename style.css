@@ -24,6 +24,10 @@ body{
     border-radius:10px;
 }
 
+.photo-slider{
+    align: center;
+}
+
 /* ================= NAVBAR ================= */
 
 .navbar{
