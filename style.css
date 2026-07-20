@@ -623,13 +623,6 @@ line-height:1.8;
 
 /* Sketching Page */
 
-.page-title{
-    text-align: center;
-    margin-top: 40px;
-    margin-bottom: 40px;
-    color: white;
-}
-
 .sketch-gallery{
     display: flex;
     justify-content: center;
@@ -659,8 +652,6 @@ line-height:1.8;
     font-size: 15px;
     line-height: 1.5;
 }
-
-
 
 .page-title{
     text-align: center;
