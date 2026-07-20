@@ -637,11 +637,12 @@ line-height:1.8;
     gap: 30px;
     flex-wrap: nowrap;
     width: 100%;
+    margin-top: 180px;
 }
 
 .sketch-card{
     text-align: center;
-    margin: 180px;
+    margin-top: 180px;
     width: 220px;
 }
 
