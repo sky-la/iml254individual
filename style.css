@@ -623,6 +623,12 @@ line-height:1.8;
 
 /* Sketching Page */
 
+.sketch-title{
+    text-align: center;
+    color: white;
+    margin-top: 180px;
+}
+
 .sketch-gallery{
     display: flex;
     justify-content: center;
