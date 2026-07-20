@@ -641,6 +641,7 @@ line-height:1.8;
 .sketch-card{
     text-align: center;
     width: 180px;
+    margin-bottom: 50px;
 }
 
 .sketch-card img{
